@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Testing Spring boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: welder
+Implementation-Vendor-Id: br.org.boot
+Build-Jdk: 1.8.0_77
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
